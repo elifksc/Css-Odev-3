@@ -1,2 +1,1 @@
-# googleNew-Clone
-Google Clone Projesi #2
+Google Son Hali
